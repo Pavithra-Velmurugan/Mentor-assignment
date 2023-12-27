@@ -1,0 +1,3 @@
+Git: https://github.com/MithraSridhar/assign-mentor
+Render: https://assign-mentor-f9jy.onrender.com/
+Postman documentation: https://documenter.getpostman.com/view/5522466/2s9Ykrbzvo
